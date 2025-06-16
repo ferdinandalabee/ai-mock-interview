@@ -12,7 +12,7 @@ const page = () => {
     <>
     <section className='flex flex-row blue-gradient-dark rounded-3xl px-16 py-6 items-center justify-between max-sm:px-4'>
       <div className='flex flex-col gap-6 max-w-lg'>
-        <h2 className='text-3xl font-semibold'>Get Intervuew Ready with AI-powered Practice & Feedback </h2>
+        <h2 className='text-3xl font-semibold'>Get Interview Ready with AI-powered Practice & Feedback </h2>
         <p className='text-lg'>
           Practice on real interview questions and get instant feedback 
         </p>
